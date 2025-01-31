@@ -18,5 +18,7 @@ Data	Tipo	Categoria	Descrição	Valor	Operação Bancária	Statuss
 
 ## 🚀 Resultados
 
+[Planilha curso.xlsx](https://github.com/user-attachments/files/18619745/Planilha.curso.xlsx)
+
 A planilha foi criada e anexada ao repositório
 Tive alguns problemas pois o excel online não possui os mesmo comandos e funções do mostrado em vídeo. Sendo assim, não consegui fazer tudo como na aula.
